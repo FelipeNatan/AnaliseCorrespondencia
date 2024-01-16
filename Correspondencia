@@ -382,4 +382,3 @@ ACM_observacoes_df %>%
         panel.grid = element_line("gray95"),
         legend.position = "none")
 
-# Fim!
